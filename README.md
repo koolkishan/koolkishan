@@ -16,7 +16,8 @@
 ### 🧑‍💻 About Me
 
 - 🎬 I run **[KishanSheth21](https://www.youtube.com/c/KishanSheth21)** on YouTube — long-form tutorials on React, Next.js, full-stack clones and real-world apps.
-- 🌍 Based in India, building for the web — currently exploring **Next.js 16, the App Router, AI SDK, and beautiful UI systems**.
+- 🤖 Currently going deep on **AI engineering** — building agents with the Vercel AI SDK, RAG pipelines, MCP servers, LangChain, and shipping production features on top of Claude, GPT and open models.
+- ⛓️ Also exploring **Web3 / blockchain** — Solidity smart contracts, Ethereum, Hardhat, and on-chain dApps with ethers.js / wagmi.
 - 💼 Open to interesting opportunities — collaborations, freelance, full-time. **Hireable ✅**
 - ✨ I love building **clones of real products** (Netflix, Spotify, Airbnb, Zoom, WhatsApp, Amazon, Walmart...) so others can learn how production apps actually fit together.
 - 🐦 Say hi on Twitter — **[@thekishansheth](https://twitter.com/thekishansheth)**
@@ -25,8 +26,36 @@
 
 ### 🛠️ Tech Stack
 
+**Core**
+
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,mongodb,firebase,redux,tailwind,sass,html,css,python,php,mysql,git,github,vercel,figma" alt="tech stack"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,mongodb,firebase,redux,tailwind,sass,html,css,python,git,github,vercel,figma" alt="core stack"/>
+</p>
+
+**AI / LLMs**
+
+<p>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel%20AI%20SDK-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
+</p>
+
+**Blockchain / Web3**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=solidity" alt="solidity"/>
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Ethers.js-29ABE2?style=for-the-badge&logo=ethereum&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wagmi-160F25?style=for-the-badge&logo=wagmi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RainbowKit-032463?style=for-the-badge&logo=rainbow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white"/>
 </p>
 
 ---
