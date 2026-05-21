@@ -69,8 +69,7 @@ I publish in-depth, **build-along** tutorials so you can ship real apps end-to-e
 
 **Latest videos** (auto-updated every 6 hours):
 
-<!-- YOUTUBE-VIDEOS:START -->
-<!-- YOUTUBE-VIDEOS:END -->
+<!-- YOUTUBE-VIDEOS:START -->- [🔴 Build a Full Stack Lovable Clone | SaaS AI Builder | Cloudflare &amp; Clerk | React 19](https://www.youtube.com/watch?v=Q9qAPQv-biQ) <br/><sub>Sat Mar 21 2026 12:50 PM</sub>- [Next.js E-Commerce App Tutorial | Build with React, OneEntry CMS &amp; Tailwind CSS](https://www.youtube.com/watch?v=cSweAnEQhMU) <br/><sub>Sat Sep 28 2024 12:47 PM</sub>- [🔴 Realtime Responsive Chat App with React, Node.js, Socket.io and MongoDB with Group Chats](https://www.youtube.com/watch?v=W3sOezpkGWI) <br/><sub>Tue Jul 09 2024 7:00 AM</sub>- [The Ultimate Chrome Extension! | Become Unhackable with SquareX](https://www.youtube.com/watch?v=WVhQOGy8oT8) <br/><sub>Thu Jun 13 2024 11:33 AM</sub>- [🔴 Next.js 14 Booking App Part 2 &lpar;Web Scraping with Puppeteer, Scraping Browser, Redis &amp; Deployment&rpar;](https://www.youtube.com/watch?v=ZWVhk0fxHM0) <br/><sub>Sat Feb 17 2024 11:30 AM</sub><!-- YOUTUBE-VIDEOS:END -->
 
 ---
 
