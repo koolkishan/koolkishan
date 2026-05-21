@@ -67,6 +67,37 @@ I publish in-depth, **build-along** tutorials so you can ship real apps end-to-e
 
 📺 **[youtube.com/c/KishanSheth21](https://www.youtube.com/c/KishanSheth21)** — most of the projects above ship with a matching video walkthrough.
 
+**Latest videos** (auto-updated every 6 hours):
+
+<!-- YOUTUBE-VIDEOS:START -->
+<!-- YOUTUBE-VIDEOS:END -->
+
+---
+
+### 💼 Hire Me / Work with me
+
+I'm available for select freelance & consulting work. If you're building something interesting, let's talk.
+
+- 🛠 **Freelance builds** — full-stack web apps with React, Next.js, Node, MongoDB, Firebase, Tailwind.
+- 🎨 **UI / product engineering** — clean, animated, production-ready interfaces (Framer Motion, shadcn/ui).
+- 🤖 **AI-powered features** — integrating LLMs, AI SDK, Vercel AI Gateway into real products.
+- 🧑‍🏫 **1:1 mentoring & code review** — for devs leveling up on React / Next.js / full-stack.
+- 🎬 **Sponsored tutorials** — feature your product on the **[KishanSheth21 YouTube channel](https://www.youtube.com/c/KishanSheth21)** (60K+ subs).
+
+📩 **Reach out:** [kishansheth21@gmail.com](mailto:kishansheth21@gmail.com) · [Twitter DM](https://twitter.com/thekishansheth)
+
+---
+
+### 🐍 My contribution graph, eaten by a snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/koolkishan/koolkishan/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/koolkishan/koolkishan/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/koolkishan/koolkishan/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
 ---
 
 ### 🤝 Connect with me
