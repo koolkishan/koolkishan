@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.youtube.com/c/KishanSheth21"><img src="https://img.shields.io/badge/YouTube-KishanSheth21-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
-  <a href="https://twitter.com/thekishansheth"><img src="https://img.shields.io/twitter/follow/thekishansheth?style=for-the-badge&logo=x&logoColor=white&color=1DA1F2" alt="Twitter"/></a>
+  <a href="https://twitter.com/thekishansheth"><img src="https://img.shields.io/badge/Twitter-@thekishansheth-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/></a>
   <a href="https://github.com/koolkishan"><img src="https://img.shields.io/github/followers/koolkishan?style=for-the-badge&logo=github&label=Followers&color=181717" alt="GitHub Followers"/></a>
   <img src="https://komarev.com/ghpvc/?username=koolkishan&style=for-the-badge&color=blueviolet" alt="Profile views"/>
 </p>
