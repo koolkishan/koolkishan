@@ -96,7 +96,7 @@ I publish in-depth, **build-along** tutorials so you can ship real apps end-to-e
 
 📺 **[youtube.com/c/KishanSheth21](https://www.youtube.com/c/KishanSheth21)** — most of the projects above ship with a matching video walkthrough.
 
-**Latest videos** (auto-updated every 6 hours):
+**Latest videos:**
 
 <!-- YOUTUBE-VIDEOS:START -->
 <table>
